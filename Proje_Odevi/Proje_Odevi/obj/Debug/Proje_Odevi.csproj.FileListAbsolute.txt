@@ -1,0 +1,9 @@
+C:\Users\Mustafa KELEŞ\Desktop\ndp proje\Proje_Odevi\Proje_Odevi\bin\Debug\Proje_Odevi.exe.config
+C:\Users\Mustafa KELEŞ\Desktop\ndp proje\Proje_Odevi\Proje_Odevi\bin\Debug\Proje_Odevi.exe
+C:\Users\Mustafa KELEŞ\Desktop\ndp proje\Proje_Odevi\Proje_Odevi\bin\Debug\Proje_Odevi.pdb
+C:\Users\Mustafa KELEŞ\Desktop\ndp proje\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.csprojAssemblyReference.cache
+C:\Users\Mustafa KELEŞ\Desktop\ndp proje\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.Properties.Resources.resources
+C:\Users\Mustafa KELEŞ\Desktop\ndp proje\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.csproj.GenerateResource.cache
+C:\Users\Mustafa KELEŞ\Desktop\ndp proje\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.exe
+C:\Users\Mustafa KELEŞ\Desktop\ndp proje\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.pdb
+C:\Users\Mustafa KELEŞ\Desktop\ndp proje\Proje_Odevi\Proje_Odevi\obj\Debug\Proje_Odevi.formAtıkToplama.resources
